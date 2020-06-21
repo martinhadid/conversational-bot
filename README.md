@@ -2,4 +2,8 @@
 
 ## Talk with an Artificial Intelligence (AI). 
 
-Uses web speech API to listen your voice, sends messages to API.ai as a string via websockets and returns the response to be reproduced as a synthetic voice.
+### How does it work?
+
+1) Web Speech API listens to your voice, 
+2) An Express.js sends messages to API.ai as a string via WebSockets 
+3) The response is reproduced as a synthetic voice.
