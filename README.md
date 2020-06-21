@@ -1,6 +1,6 @@
 # Conversational Bot
 
-## Talk with an Artificial Intelligence (AI). 
+## Talk with an Artificial Intelligence (AI)
 
 ### How does it work?
 
